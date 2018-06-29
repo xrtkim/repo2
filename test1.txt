@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B8D8-A71A
+
+ Directory of C:\Users\rkim\Desktop\MyProject
+
+06/29/2018  12:36 PM    <DIR>          .
+06/29/2018  12:36 PM    <DIR>          ..
+06/29/2018  12:36 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  226,902,093,824 bytes free
